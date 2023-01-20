@@ -10,8 +10,8 @@ const router = createRouter({
       component: Home
     },
     {
-      path: '/speaker',
-      name: 'speaker',
+      path: '/speakers',
+      name: 'speakers',
       component: () => import('../pages/Speaker.vue')
     },
     {

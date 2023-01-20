@@ -1,7 +1,7 @@
 <template>
     
 
-    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark" data-scroll-header>
         <div class="container-fluid">
             <RouterLink class="navbar-brand" to="/">
                 <img src="../frontend/assets/logo/logo-mit-light.svg" style="height: 42px;" alt="Canvas Logo">
@@ -15,18 +15,18 @@
                         <RouterLink class="nav-link" to="/">Home</RouterLink>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle" href="" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Speakers
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li>
-                                <RouterLink class="dropdown-item" to="/speaker">Conference Speakers</RouterLink>
+                                <RouterLink class="dropdown-item" to="/speakers">Conference Speakers</RouterLink>
                             </li>
                             <li>
                                 <RouterLink class="dropdown-item" to="/judges">Judges</RouterLink>
                             </li>
                             <li>
-                                <RouterLink class="dropdown-item" to="/mentor">Mentors</RouterLink>
+                                <RouterLink class="dropdown-item" to="/mentors">Mentors</RouterLink>
                             </li>
                         </ul>
                     </li>

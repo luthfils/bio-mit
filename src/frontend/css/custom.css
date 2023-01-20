@@ -398,6 +398,56 @@ h2 {
 }
 
 /* --------------------- Timeline --------------------- */
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    position: relative;
+    z-index: 2;
+    color: #FFF !important;
+    font-weight: normal;
+    background-color: #00AEBF !important;
+    text-shadow: none;
+    box-shadow: 0px 10px 70px rgb(3 27 78 / 10%);
+    margin: 0 0 -1px;
+    padding: 24px 32px;
+    border: none;
+      border-top-color: currentcolor;
+      border-right-color: currentcolor;
+      border-right-width: medium;
+      border-bottom-color: currentcolor;
+      border-left-color: currentcolor;
+    border-top-color: currentcolor;
+    border-right-color: currentcolor;
+    border-bottom-color: currentcolor;
+    border-left-color: currentcolor;
+    border-right-width: 2px;
+    border-radius: 14px !important;
+}
+
+.nav-pills .nav-link {
+    padding: 24px 32px;
+    border-radius: 14px !important;
+}
+
+.nav-pills .nav-link:hover {
+    background-color: #272F53;
+    color: #222;
+    box-shadow: 0px 10px 70px rgb(3 27 78 / 10%);
+    transition: all .3s ease;
+}
+
+.nav-pills .nav-link.active .rounded-icon {
+    width: 52px;
+    height: 52px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #4CC6D2;
+    border-radius: 14px;
+    color: #fff;
+}
+
+.nav-pills .nav-link.active span {
+    color: #fff !important;
+}
 
 .sidenav {
     width: 100%;

@@ -13,10 +13,10 @@
 
                         <div class="row">
                             <div class="col-lg-8">
-                                <div class="clearfix mb-4 animate__animated animate__fadeInUp animate__delay-100ms">
+                                <div class="clearfix mb-4 wow fadeInUp" data-wow-delay="100ms">
                                     <img src="../frontend/assets/logo/logo-mit-light.svg" alt="Image" class="">
                                 </div>
-                                <div class="clearfix animate__animated animate__fadeInUp animate__delay-200ms">
+                                <div class="clearfix wow fadeInUp" data-wow-delay="200ms">
                                     <p class="mb-0 fc-muted">Solutions to existing problems, developed through collaborative, intense, and innovative teamwork in a short amount of time.</p>
                                 </div>
                             </div>
@@ -28,7 +28,7 @@
 
                         <div class="clearfix dark">
                             <div class="row">
-                                <div class="col-6 animate__animated animate__fadeInUp animate__delay-300ms">
+                                <div class="col-6 wow fadeInUp" data-wow-delay="300ms">
                                     <ul class="mb-0">
                                         <!-- <li class="mb-3"><a href="index.html">Home</a></li> -->
                                         <li class="mb-3"><a href="speaker.html">Conference Speakers</a></li>
@@ -38,7 +38,7 @@
                                     </ul>
                                 </div>
 
-                                <div class="col-6 animate__animated animate__fadeInUp animate__delay-400ms">
+                                <div class="col-6 wow fadeInUp" data-wow-delay="400ms">
                                     <ul class="mb-0">
                                         <li class="mb-3"><a href="contact.html">Contact</a></li>
                                         <li class="mb-3"><a href="faq.html">FAQ</a></li>
@@ -64,12 +64,12 @@
                 <div class="line mb-4 mt-0"></div>
 
                 <div class="row justify-content-between d-flex align-items-center gy-4">
-                    <div class="col-12 col-lg-auto text-center text-lg-start copyrights fc-muted animate__animated animate__fadeInUp animate__delay-100ms">
+                    <div class="col-12 col-lg-auto text-center text-lg-start copyrights fc-muted animate__animated animate__fadeInUp animate__delay-100ms" data-wow-delay="500ms">
                         Copyrights &copy; 2022 All Rights Reserved by <a href="index.html">Bio Farma X MIT
                             Hacking Medicine</a>
                     </div>
 
-                    <div class="col-12 col-lg-auto text-center text-lg-end animate__animated animate__fadeInUp animate__delay-200ms">
+                    <div class="col-12 col-lg-auto text-center text-lg-end animate__animated animate__fadeInUp animate__delay-200ms" data-wow-delay="600ms">
                         <div class=" d-flex justify-content-center">
 								<a href="https://instagram.com/hi.dhc" class="social-icon inline-block si-small si-borderless mb-0 si-instagram">
 									<i class="icon-instagram"></i>
