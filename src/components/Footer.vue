@@ -14,7 +14,9 @@
                         <div class="row">
                             <div class="col-lg-8">
                                 <div class="clearfix mb-4 wow fadeInUp" data-wow-delay="100ms">
-                                    <img src="../frontend/assets/logo/logo-mit-light.svg" alt="Image" class="">
+                                    <RouterLink to="/">
+                                        <img src="../frontend/assets/logo/logo-mit-light.svg" alt="Image" class="">
+                                    </RouterLink>
                                 </div>
                                 <div class="clearfix wow fadeInUp" data-wow-delay="200ms">
                                     <p class="mb-0 fc-muted">Solutions to existing problems, developed through collaborative, intense, and innovative teamwork in a short amount of time.</p>
@@ -31,10 +33,26 @@
                                 <div class="col-6 wow fadeInUp" data-wow-delay="300ms">
                                     <ul class="mb-0">
                                         <!-- <li class="mb-3"><a href="index.html">Home</a></li> -->
-                                        <li class="mb-3"><a href="speaker.html">Conference Speakers</a></li>
-                                        <li class="mb-3"><a href="judges.html">Judges</a></li>
-                                        <li class="mb-3"><a href="mentor.html">Mentors</a></li>
-                                        <li class="mb-3"><a href="sponsor.html">Sponsorship</a></li>
+                                        <li class="mb-3">
+                                            <RouterLink to="/speakers">
+                                                Conference Speakers
+                                            </RouterLink>
+                                        </li>
+                                        <li class="mb-3">
+                                            <RouterLink to="/judges">
+                                                Judges
+                                            </RouterLink>
+                                        </li>
+                                        <li class="mb-3">
+                                            <RouterLink to="/mentors">
+                                               Mentors
+                                            </RouterLink>
+                                        </li>
+                                        <li class="mb-3">
+                                            <RouterLink to="/sponsorship">
+                                                Sponsorship
+                                            </RouterLink>
+                                        </li>
                                     </ul>
                                 </div>
 
@@ -93,3 +111,7 @@
         </div><!-- #copyrights end -->
     </footer><!-- #footer end -->
 </template>
+
+<script setup>
+import { RouterLink } from 'vue-router'
+</script>

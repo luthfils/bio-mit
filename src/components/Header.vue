@@ -31,7 +31,7 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <RouterLink class="nav-link" to="/sponsor">Sponsorship</RouterLink>
+                        <RouterLink class="nav-link" to="/sponsorship">Sponsorship</RouterLink>
                     </li>
                     <li class="nav-item">
                         <RouterLink class="nav-link" to="/contact">Contact</RouterLink>

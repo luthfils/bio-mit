@@ -591,8 +591,11 @@ h2 {
 }
 
 .track {
-    background-image: url("../assets/images/biofarma.jpg");
+    background-image: url("../assets/images/heritage.jpg");
     padding-bottom: 150px !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
 }
 
 [id^="particles-"] {
@@ -1267,7 +1270,7 @@ h2 {
 }
 
 .footer a {
-    color: #F5F5F591;
+    color: #F5F5F591 !important;
 }
 
 .footer a:hover {

@@ -42,7 +42,7 @@
                                                     </div>
                                                     
                                                     <div>
-                                                        <h4 class="mb-1 fw-bold">February 16-19, 2023</h4>
+                                                        <h4 class="mb-1 fw-bold">Q3 2023</h4>
                                                         <span class="fc-muted">Date</span>
                                                     </div>
                                                 </div>
