@@ -42,7 +42,7 @@
                                                     </div>
                                                     
                                                     <div>
-                                                        <h4 class="mb-1 fw-bold">Q3 2023</h4>
+                                                        <h4 class="mb-1 fw-bold">August 24-27, 2023</h4>
                                                         <span class="fc-muted">Date</span>
                                                     </div>
                                                 </div>
@@ -72,7 +72,7 @@
                                 </div>
 
                                 <div data-wow-delay="100ms" class="col-lg-6 text-center wow fadeInUp">
-                                    <img src="../frontend/assets/images/header.svg" alt="Header">
+                                    <img src="../frontend/assets/images/header-photo.png" alt="Header">
                                 </div>
                             </div>
                         </div>
@@ -94,28 +94,43 @@
 
                     <div id="section-about" class="page-section about bg-dark pt-6">
 
-                        <div class="container clearfix">
-                            <h5 class="text-uppercase ls4 fw-normal mb-3 fc-secondary text-center wow fadeInUp" data-wow-delay="100ms">About</h5>
-                            <div class="row gx-6 gy-5">
-                                <div class="col-lg-6">
-                                    <h2 class="text-capitalize fw-bold font-body wow fadeInUp" data-wow-delay="200ms">Bio Farma, The Pharmaceutical SOE Holding</h2>
-                                    <p data-wow-delay="300ms" class="fc-muted wow fadeInUp">
-                                        The Pharmaceutical SOE Holding was formed on January 31, 2020, consisting of PT Bio Farma (Persero), PT Kimia Farma Tbk, and PT Indofarma Tbk. In 2021, PT INUKI also joined the holding company. Each members of the Holding have different business focus : PT Bio Farma (Persero) focuses on life science business, PT Kimia Farma Tbk focuses on medicine business, PT Indofarma Tbk focuses on herbal and medical device business, and PT INUKI operates in the nuclear technology industry. The purpose of Pharmaceutical SOE Holding establishment is to strengthen the national pharmaceutical industry independence, increase national product availability, and create joint innovations in supply of pharmaceutical products.
-                                    </p>
-                                </div>
+					<div class="container clearfix">
+						<div class="row gx-6 gy-5 align-items-center mb-6">
+							<div class="col-lg-6">
+								<h5 class="text-uppercase ls4 fw-normal mb-3 fc-secondary wow fadeInUp" data-wow-delay="100ms">About</h5>
+								<h2 class="text-capitalize fw-bold font-body wow fadeInUp" data-wow-delay="200ms">Bio Farma, The Pharmaceutical SOE Holding</h2>
+								<p data-wow-delay="300ms" class="fc-muted mb-0 wow fadeInUp">
+									The Pharmaceutical SOE Holding was formed on January 31, 2020, consisting of PT Bio Farma (Persero), PT Kimia Farma Tbk, and PT Indofarma Tbk. In 2021, PT INUKI also joined the holding company. Each members of the Holding have different business focus : PT Bio Farma (Persero) focuses on life science business, PT Kimia Farma Tbk focuses on medicine business, PT Indofarma Tbk focuses on herbal and medical device business, and PT INUKI operates in the nuclear technology industry. The purpose of Pharmaceutical SOE Holding establishment is to strengthen the national pharmaceutical industry independence, increase national product availability, and create joint innovations in supply of pharmaceutical products.
+								</p>
+							</div>
 
-                                <div class="col-lg-6">
-                                    <h2 class="text-capitalize fw-bold font-body wow fadeInUp" data-wow-delay="400ms">MIT Hacking Medicine</h2>
-                                    <p data-wow-delay="500ms" class="fc-muted wow fadeInUp">
-                                        MIT Hacking Medicine has facilitated hackathon events in nearly a dozen countries and multiple U.S. states. It aims to energize the healthcare community and accelerate medical innovation. 
-                                    </p>
-                                    <p data-wow-delay="600ms" class="fc-muted wow fadeInUp">
-                                        MIT Hacking Medicine routinely collaborates with prominent organizations and corporations, such as The Kauffman Foundation, Massachusetts General Hospital, Emergency Nurses Association, Pfizer, Microsoft, Samsung, GE, Merck, and AthenaHealth. The group has also been featured in top media outlets such as SXSW, The Wall Street Journal, Slate, and Wired. 
-                                    </p>
-                                </div>
-                            </div>
-                            
-                        </div>
+							<div class="col-lg-6">
+								<div data-wow-delay="100ms" class="wow fadeInUp">
+									<img src="../frontend/assets/images/biofarma-photo.jpg" alt="biofarma" class="rounded-14">
+								</div>
+							</div>
+						</div>
+
+						<div class="row gx-6 gy-5 align-items-center">
+							<div class="col-lg-6 order-last order-lg-first">
+								<div data-wow-delay="100ms" class="wow fadeInUp">
+									<img src="../frontend/assets/images/mit-photo.jpg" alt="biofarma" class="rounded-14">
+								</div>
+							</div>
+
+							<div class="col-lg-6 order-first order-lg-last">
+								<h5 class="text-uppercase ls4 fw-normal mb-3 fc-secondary wow fadeInUp" data-wow-delay="100ms">About</h5>
+								<h2 class="text-capitalize fw-bold font-body wow fadeInUp" data-wow-delay="200ms">MIT Hacking Medicine</h2>
+								<p data-wow-delay="300ms" class="fc-muted wow fadeInUp">
+									MIT Hacking Medicine has facilitated hackathon events in nearly a dozen countries and multiple U.S. states. It aims to energize the healthcare community and accelerate medical innovation. 
+								</p>
+								<p data-wow-delay="400ms" class="fc-muted mb-0 wow fadeInUp">
+									MIT Hacking Medicine routinely collaborates with prominent organizations and corporations, such as The Kauffman Foundation, Massachusetts General Hospital, Emergency Nurses Association, Pfizer, Microsoft, Samsung, GE, Merck, and AthenaHealth. The group has also been featured in top media outlets such as SXSW, The Wall Street Journal, Slate, and Wired. 
+								</p>
+							</div>
+						</div>
+						
+					</div>
 
                     </div>
 
@@ -214,7 +229,7 @@
                                                     
                                                     <div>
                                                         <h4 class="mb-1 fw-bold">Day 1-2 : Hackathon Intro</h4>
-                                                        <span class="fc-muted">Thursday, February 16 – Friday, February 17, 2023</span>
+                                                        <span class="fc-muted">Thursday, August 24 – Friday, August 25, 2023</span>
                                                     </div>
                                                 </a>
                                                 <a data-wow-delay="400ms" class="nav-link d-flex wow fadeInUp my-4" id="v-pills-profile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-profile" type="button" role="tab" aria-controls="v-pills-profile" aria-selected="false">
@@ -226,7 +241,7 @@
                                                     
                                                     <div>
                                                         <h4 class="mb-1 fw-bold">Day 3 : Pitching Day</h4>
-                                                        <span class="fc-muted">Saturday, February 18, 2023</span>
+                                                        <span class="fc-muted">Saturday, August 26, 2023</span>
                                                     </div>
                                                 </a>
                                                 <a data-wow-delay="500ms" class="nav-link d-flex wow fadeInUp" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-messages" type="button" role="tab" aria-controls="v-pills-messages" aria-selected="false">
@@ -238,7 +253,7 @@
                                                     
                                                     <div>
                                                         <h4 class="mb-1 fw-bold">Day 4 : Conference</h4>
-                                                        <span class="fc-muted">Sunday, February 19, 2023</span>
+                                                        <span class="fc-muted">Sunday, August 27, 2023</span>
                                                     </div>
                                                 </a>
                                             </div>
@@ -397,7 +412,7 @@
                                                     
                                                     <div>
                                                         <h4 class="mb-1 fw-bold">Day 1-2 : Hackathon Intro</h4>
-                                                        <span class="fc-muted">Thursday, February 16 – Friday, February 17, 2023</span>
+                                                        <span class="fc-muted">Thursday, August 24 – Friday, August 25, 2023</span>
                                                     </div>
                                                 </a>
                                             </div>
@@ -469,7 +484,7 @@
                                                     
                                                     <div>
                                                         <h4 class="mb-1 fw-bold">Day 3 : Pitching Day</h4>
-                                                        <span class="fc-muted">Saturday, February 18, 2023</span>
+                                                        <span class="fc-muted">Saturday, August 26, 2023</span>
                                                     </div>
                                                 </a>
                                             </div>
@@ -519,7 +534,7 @@
                                                     
                                                     <div>
                                                         <h4 class="mb-1 fw-bold">Day 4 : Conference</h4>
-                                                        <span class="fc-muted">Sunday, February 19, 2023
+                                                        <span class="fc-muted">Sunday, August 27, 2023
                                                         </span>
                                                     </div>
                                                 </a>
@@ -624,93 +639,167 @@
                         </div>
                     </div>
 
-                    <div id="section-participant" class="page-section participant bg-dark-2 pt-6">
+                    <div id="section-participant" class="page-section participant bg-dark-2 pt-6 pb-0">
 
-                            <div class="center container">
-                                <h5 class="text-uppercase ls4 fw-normal mb-2 fc-secondary wow fadeInUp" data-wow-delay="100ms">Participants</h5>
-                                <h2 class="text-capitalize fw-bold font-body wow fadeInUp" data-wow-delay="200ms">Participant Roles</h2>
-                                <p data-wow-delay="300ms" class="fc-muted mb-4 wow fadeInUp">
-                                    200 international participants, from all across G20 countries and ASEAN member states
-                                </p>
+						<div class="center container">
+							<h5 class="text-uppercase ls4 fw-normal mb-2 fc-secondary" data-animate="fadeInUp" data-delay="10">Participants</h5>
+							<h2 class="text-capitalize fw-bold font-body" data-animate="fadeInUp" data-delay="20">Participant Roles</h2>
+							<p data-animate="fadeInUp" data-delay="30" class="fc-muted mb-4">
+								200 international participants, from all across G20 countries and ASEAN member states
+							</p>
+						</div>
+						
+						<div class="row clearfix mt-6 bg-dark">
+
+							<div class="row align-items-stretch">
+								<!-- <div data-animate="fadeInLeft" data-delay="40" class="col-lg-4 d-none d-md-block" style="background: url('assets/images/participant.jpg') center center no-repeat; background-size: cover;"></div> -->
+								<div class="col-lg-12">
+									<div class="row align-items-stretch grid-border clearfix">
+										<div class="col-lg-4 col-md-6 col-padding" data-animate="fadeInUp" data-delay="50">
+											<div class="feature-box fbox-center fbox-dark fbox-plain">
+												<div class="fbox-icon">
+													<img src="../frontend/assets/images/user.svg" alt="">
+												</div>
+												<div class="fbox-content fbox-content-sm">
+													<h4>Business Strategists</h4>
+												</div>
+											</div>
+										</div>
+										<div class="col-lg-4 col-md-6 col-padding" data-animate="fadeInUp" data-delay="60">
+											<div class="feature-box fbox-center fbox-dark fbox-plain">
+												<div class="fbox-icon">
+													<img src="../frontend/assets/images/pentool.svg" alt="">
+												</div>
+												<div class="fbox-content fbox-content-sm">
+													<h4>Designers</h4>
+												</div>
+											</div>
+										</div>
+										<div class="col-lg-4 col-md-6 col-padding" data-animate="fadeInUp" data-delay="70">
+											<div class="feature-box fbox-center fbox-dark fbox-plain">
+												<div class="fbox-icon">
+													<img src="../frontend/assets/images/user-plus.svg" alt="">
+												</div>
+												<div class="fbox-content fbox-content-sm">
+													<h4>Healthcare Professionals</h4>
+												</div>
+											</div>
+										</div>
+										<div class="col-lg-4 col-md-6 col-padding" data-animate="fadeInUp" data-delay="80">
+											<div class="feature-box fbox-center fbox-dark fbox-plain">
+												<div class="fbox-icon">
+													<img src="../frontend/assets/images/activity.svg" alt="">
+												</div>
+												<div class="fbox-content fbox-content-sm">
+													<h4>Customers / Patients</h4>
+												</div>
+											</div>
+										</div>
+										<div class="col-lg-4 col-md-6 col-padding" data-animate="fadeInUp" data-delay="90">
+											<div class="feature-box fbox-center fbox-dark fbox-plain">
+												<div class="fbox-icon">
+													<img src="../frontend/assets/images/briefcase.svg" alt="">
+												</div>
+												<div class="fbox-content fbox-content-sm">
+													<h4>Entrepreneurs</h4>
+												</div>
+											</div>
+										</div>
+										<div class="col-lg-4 col-md-6 col-padding" data-animate="fadeInUp" data-delay="100">
+											<div class="feature-box fbox-center fbox-dark fbox-plain">
+												<div class="fbox-icon">
+													<img src="../frontend/assets/images/code.svg" alt="">
+												</div>
+												<div class="fbox-content fbox-content-sm">
+													<h4>Developers</h4>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="d-none d-lg-block parallax min-vh-100 dark m-0 border-0 d-flex participant-image-desktop participant-dark-bg" data-bottom-top="background-position:0px 0px;" data-top-bottom="background-position:0px -300px;"></div>
+
+				    </div>
+
+                    <div id="section-participant-image" class="page-section bg-dark-2 pb-0 pt-5 d-md-none d-md-block">
+                        <div class="container clearfix">
+                            <div class="d-lg-none d-lg-block m-0 border-0">
+                                <img src="../frontend/assets/images/participant-mobile.png" alt="Participant">
+                            </div>
+                        </div>
+				    </div>
+
+                    <div id="section-winner" class="page-section winner pt-6">
+                        <div class="container clearfix">
+
+                            <div class="center">
+                                <h5 class="text-uppercase ls4 fw-normal mb-2 fc-secondary wow fadeInUp" data-wow-delay="100ms">Winners</h5>
+                                <h2 class="text-capitalize fw-bold font-body wow fadeInUp" data-wow-delay="200ms">Prize for the Winners</h2>
                             </div>
                             
-                            <div class="row clearfix mt-6 bg-dark">
+                            <div class="row clearfix mt-6 gx-6">
 
-                                <div class="row align-items-stretch">
+                                <div data-wow-delay="300ms" class="col-lg-6 mb-5">
+                                    <!-- <img src="assets/images/winner.svg" alt="Winner"> -->
+                                </div>
 
-                                    <div data-wow-delay="400ms" class="col-lg-4 d-none d-md-block participant-image wow fadeInLeft"></div>
-                                    <div class="col-lg-8">
-                                        <div class="row align-items-stretch grid-border clearfix">
-                                            <div class="col-lg-4 col-md-6 col-padding wow fadeInUp" data-wow-delay="500ms">
-                                                <div class="feature-box fbox-center fbox-dark fbox-plain">
-                                                    <div class="fbox-icon">
-                                                        <img src="../frontend/assets/images/user.svg" alt="">
-                                                    </div>
-                                                    <div class="fbox-content fbox-content-sm">
-                                                        <h4>Business Strategists</h4>
-                                                    </div>
-                                                </div>
+                                <div class="col-lg-6">
+                                    <div class="mb-5">
+                                        <div class="d-flex align-items-center justify-content-center justify-content-lg-start mb-3 wow fadeInUp" data-wow-delay="300ms">
+                                            <div class="prize mb-3 px-5 py-4 text-center">
+                                                <h4 class="mb-0 fw-bold">16,000 USD Total Prize</h4>
                                             </div>
-                                            <div class="col-lg-4 col-md-6 col-padding wow fadeInUp" data-wow-delay="600ms">
-                                                <div class="feature-box fbox-center fbox-dark fbox-plain">
-                                                    <div class="fbox-icon">
-                                                        <img src="../frontend/assets/images/pentool.svg" alt="">
-                                                    </div>
-                                                    <div class="fbox-content fbox-content-sm">
-                                                        <h4>Designers</h4>
-                                                    </div>
+                                        </div>
+                                        <div class="mb-5">
+                                            <h4 class="mb-3 fw-bold wow fadeInUp" data-wow-delay="400ms">The top 3 teams will be rewarded with:</h4>
+                                            <div class="d-flex mb-3 align-items-center wow fadeInUp" data-wow-delay="500ms">
+                                                <div class="me-3 icon d-flex align-items-center justify-content-center">
+                                                    <i class="bi bi-check2"></i>
                                                 </div>
+                                                <span class="fc-muted">Funds and cloud vouchers worth a total of 10,000 USD</span>
                                             </div>
-                                            <div class="col-lg-4 col-md-6 col-padding wow fadeInUp" data-wow-delay="700ms">
-                                                <div class="feature-box fbox-center fbox-dark fbox-plain">
-                                                    <div class="fbox-icon">
-                                                        <img src="../frontend/assets/images/user-plus.svg" alt="">
-                                                    </div>
-                                                    <div class="fbox-content fbox-content-sm">
-                                                        <h4>Healthcare Professionals</h4>
-                                                    </div>
+                                            <div class="d-flex mb-3 align-items-center wow fadeInUp" data-wow-delay="600ms">
+                                                <div class="me-3 icon d-flex align-items-center justify-content-center">
+                                                    <i class="bi bi-check2"></i>
                                                 </div>
+                                                <span class="fc-muted">Sponsored implementation of their projects as a pilot
+                                                </span>
                                             </div>
-                                            <div class="col-lg-4 col-md-6 col-padding wow fadeInUp" data-wow-delay="800ms">
-                                                <div class="feature-box fbox-center fbox-dark fbox-plain">
-                                                    <div class="fbox-icon">
-                                                        <img src="../frontend/assets/images/activity.svg" alt="">
-                                                    </div>
-                                                    <div class="fbox-content fbox-content-sm">
-                                                        <h4>Customers / Patients</h4>
-                                                    </div>
+                                            <div class="d-flex align-items-center wow fadeInUp" data-wow-delay="700ms">
+                                                <div class="me-3 icon d-flex align-items-center justify-content-center">
+                                                    <i class="bi bi-check2"></i>
                                                 </div>
-                                            </div>
-                                            <div class="col-lg-4 col-md-6 col-padding wow fadeInUp" data-wow-delay="900ms">
-                                                <div class="feature-box fbox-center fbox-dark fbox-plain">
-                                                    <div class="fbox-icon">
-                                                        <img src="../frontend/assets/images/briefcase.svg" alt="">
-                                                    </div>
-                                                    <div class="fbox-content fbox-content-sm">
-                                                        <h4>Entrepreneurs</h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-lg-4 col-md-6 col-padding wow fadeInUp" data-wow-delay="1000ms">
-                                                <div class="feature-box fbox-center fbox-dark fbox-plain">
-                                                    <div class="fbox-icon">
-                                                        <img src="../frontend/assets/images/code.svg" alt="">
-                                                    </div>
-                                                    <div class="fbox-content fbox-content-sm">
-                                                        <h4>Developers</h4>
-                                                    </div>
-                                                </div>
+                                                <span class="fc-muted">Total funding of 6,000 USD
+                                                </span>
                                             </div>
                                         </div>
                                     </div>
-            
+                                    <div>
+                                        <div class="d-flex align-items-center justify-content-center justify-content-lg-start mb-3 wow fadeInUp" data-wow-delay="300ms">
+                                            <div class="flight mb-3 px-5 py-4 text-center">
+                                                <h4 class="mb-0 fw-bold">Flight to Boston</h4>
+                                            </div>
+                                        </div>
+                                        <h4 class="mb-3 fw-bold wow fadeInUp" data-wow-delay="700ms">Outstanding Participants</h4>
+                                        <div class="d-flex mb-3 align-items-center wow fadeInUp" data-wow-delay="800ms">
+                                            <div class="me-3 icon d-flex align-items-center justify-content-center">
+                                                <i class="bi bi-check2"></i>
+                                            </div>
+                                            <span class="fc-muted">A golden ticket to Boston including a flight worth 5,000 USD</span>
+                                        </div>
+                                    </div>
                                 </div>
 
                             </div>
 
+                        </div>
+
                     </div>
 
-                    <div id="section-winner" class="page-section winner bg-dark-2 pt-6">
+                    <!-- <div id="section-winner" class="page-section winner bg-dark-2 pt-6">
                         <div class="container clearfix">
 
                             <div class="center">
@@ -775,7 +864,7 @@
 
                         </div>
 
-                    </div>
+                    </div> -->
 
                     <div id="section-partner" class="page-section partner bg-dark pt-6">
                         <div class="container clearfix">

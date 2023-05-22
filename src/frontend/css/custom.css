@@ -722,6 +722,17 @@ h2 {
     background-color: #2D8DFE;
 }
 
+.participant-image-desktop {
+    background-image: url("../assets/images/participant.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.participant-dark-bg {
+    background-color: #161b2e;
+}
+
 /* --------------------- Winner --------------------- */
 
 .winner .icon {
@@ -753,6 +764,11 @@ h2 {
 .winner .prize:hover,
 .winner .flight:hover {
     transform: scale(1.2);
+}
+
+.winner {
+    background: url("../assets/images/winner-photo.jpg") center left no-repeat;
+    background-size: cover;
 }
 
 /* --------------------- Page Title --------------------- */
