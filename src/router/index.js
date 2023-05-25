@@ -30,6 +30,11 @@ const router = createRouter({
       component: () => import('../pages/Sponsorship.vue')
     },
     {
+      path: '/contact',
+      name: 'contact',
+      component: () => import('../pages/Contact.vue')
+    },
+    {
       // path: '/about',
       // name: 'about',
       // route level code-splitting

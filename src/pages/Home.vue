@@ -799,73 +799,6 @@
 
                     </div>
 
-                    <!-- <div id="section-winner" class="page-section winner bg-dark-2 pt-6">
-                        <div class="container clearfix">
-
-                            <div class="center">
-                                <h5 class="text-uppercase ls4 fw-normal mb-2 fc-secondary wow fadeInUp" data-wow-delay="100ms">Winners</h5>
-                                <h2 class="text-capitalize fw-bold font-body wow fadeInUp" data-wow-delay="200ms">Prize for the Winners</h2>
-                            </div>
-                            
-                            <div class="row clearfix mt-6 gx-6">
-
-                                <div data-wow-delay="300ms" class="col-lg-6 mb-5 wow fadeInUp">
-                                    <img src="../frontend/assets/images/winner.svg" alt="Winner">
-                                </div>
-
-                                <div class="col-lg-6">
-                                    <div class="mb-5">
-                                        <div class="d-flex align-items-center justify-content-center justify-content-lg-start mb-3 wow fadeInUp" data-wow-delay="300ms">
-                                            <div class="prize mb-3 px-5 py-4 text-center">
-                                                <h4 class="mb-0 fw-bold">16,000 USD Total Prize</h4>
-                                            </div>
-                                        </div>
-                                        <div class="mb-5">
-                                            <h4 class="mb-3 fw-bold wow fadeInUp" data-wow-delay="400ms">The top 3 teams will be rewarded with:</h4>
-                                            <div class="d-flex mb-3 align-items-center wow fadeInUp" data-wow-delay="500ms">
-                                                <div class="me-3 icon d-flex align-items-center justify-content-center">
-                                                    <i class="bi bi-check2"></i>
-                                                </div>
-                                                <span class="fc-muted">Funds and cloud vouchers worth a total of 10,000 USD</span>
-                                            </div>
-                                            <div class="d-flex mb-3 align-items-center wow fadeInUp" data-wow-delay="600ms">
-                                                <div class="me-3 icon d-flex align-items-center justify-content-center">
-                                                    <i class="bi bi-check2"></i>
-                                                </div>
-                                                <span class="fc-muted">Sponsored implementation of their projects as a pilot
-                                                </span>
-                                            </div>
-                                            <div class="d-flex align-items-center wow fadeInUp" data-wow-delay="700ms">
-                                                <div class="me-3 icon d-flex align-items-center justify-content-center">
-                                                    <i class="bi bi-check2"></i>
-                                                </div>
-                                                <span class="fc-muted">Total funding of 6,000 USD
-                                                </span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <div class="d-flex align-items-center justify-content-center justify-content-lg-start mb-3 wow fadeInUp" data-wow-delay="300ms">
-                                            <div class="flight mb-3 px-5 py-4 text-center">
-                                                <h4 class="mb-0 fw-bold">Flight to Boston</h4>
-                                            </div>
-                                        </div>
-                                        <h4 class="mb-3 fw-bold wow fadeInUp" data-wow-delay="700ms">Outstanding Participants</h4>
-                                        <div class="d-flex mb-3 align-items-center wow fadeInUp" data-wow-delay="800ms">
-                                            <div class="me-3 icon d-flex align-items-center justify-content-center">
-                                                <i class="bi bi-check2"></i>
-                                            </div>
-                                            <span class="fc-muted">A golden ticket to Boston including a flight worth 5,000 USD</span>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                    </div> -->
-
                     <div id="section-partner" class="page-section partner bg-dark pt-6">
                         <div class="container clearfix">
 
@@ -875,7 +808,7 @@
                             </div>
                             
                             <div class="list clearfix mt-6 wow fadeInUp" data-wow-delay="300ms">
-                                <div class="row gy-2">
+                                <div class="row gy-2 justify-content-center">
                                     <div class="col-xl-2 col-lg-3 col-md-4 col-6 p-4 center d-flex align-items-center justify-content-center">
                                         <img src="../frontend/assets/partners/BUMN.png" alt="Image">
                                     </div>

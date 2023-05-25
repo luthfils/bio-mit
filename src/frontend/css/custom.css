@@ -674,6 +674,11 @@ h2 {
     color: #F5F5F591 !important;
 }
 
+.sponsor .table-responsive  {
+    background: #272f53;
+    border-radius: 14px;
+}
+
 /* --------------------- Speaker, Judges --------------------- */
 
 .speaker .card-small:hover h3,
@@ -772,10 +777,20 @@ h2 {
 }
 
 /* --------------------- Page Title --------------------- */
+.page-title h1 {
+    text-transform: uppercase;
+}
 
-#page-title.page-title-dark .breadcrumb a:hover {
+.breadcrumb a:hover {
     color: #FF914D;
-    
+}
+
+.breadcrumb-item.active {
+    color: #fff;
+}
+
+.breadcrumb a {
+    color: #F5F5F591 ;
 }
 
 #page-title.page-title-dark {
@@ -1192,7 +1207,6 @@ h2 {
 .contact .map-container{
     overflow:hidden;
     position:relative;
-    height:0;
 }
 .contact .map-container iframe{
     left:0;
