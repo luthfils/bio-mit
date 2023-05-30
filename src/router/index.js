@@ -35,6 +35,16 @@ const router = createRouter({
       component: () => import('../pages/Contact.vue')
     },
     {
+      path: '/faq',
+      name: 'faq',
+      component: () => import('../pages/Faq.vue')
+    },
+    {
+      path: '/register',
+      name: 'register',
+      component: () => import('../pages/Register.vue')
+    },
+    {
       // path: '/about',
       // name: 'about',
       // route level code-splitting
@@ -43,6 +53,10 @@ const router = createRouter({
       // component: () => import('../views/AboutView.vue')
     }
   ]
+})
+
+router.afterEach(() => {
+  window.scrollTo(0,0);
 })
 
 export default router

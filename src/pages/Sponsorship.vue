@@ -230,6 +230,5 @@
 
 <script setup>
 import Header from '../components/Header.vue'
-import ComingSoon from '../components/ComingSoon.vue'
 import Footer from '../components/Footer.vue'
 </script>

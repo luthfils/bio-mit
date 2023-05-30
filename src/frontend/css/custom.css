@@ -19,6 +19,10 @@ h1, h2, h3, h4, h5, h6 {
     letter-spacing: 1px !important;
 }
 
+.fbox-center h4 {
+    margin-bottom: 0;
+}
+
 .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
     color: #FF914D;
 }
@@ -772,7 +776,7 @@ h2 {
 }
 
 .winner {
-    background: url("../assets/images/winner-photo.jpg") center left no-repeat;
+    background: url("../assets/images/Winner-Photo-Center.jpg") center center no-repeat;
     background-size: cover;
 }
 
@@ -1191,15 +1195,61 @@ h2 {
 
 .faq .accordion-header,
 .timeline .accordion-header {
-    padding: 28px 0;
+    padding: 0;
     border-top: 0px dotted #DDD;
     cursor: pointer;
     color: #F5F5F5;
+    margin: 0;
 }
 
 .faq .toggle-title, .accordion-title {
     padding: 0 10px;
 }
+
+.faq .accordion-item {
+    background-color: #262e52;
+    border: 0px solid rgba(0, 0, 0, 0.125);
+    margin-bottom: 24px;
+    border-radius: 14px;
+}
+
+.faq .accordion-button:not(.collapsed) {
+    color: #fff;
+    background-color: #262e52;
+    box-shadow: none;
+}
+
+.faq .accordion-button:not(.collapsed)::after {
+    background-image: none;
+    transform: rotate(-180deg);
+    content: "\f078";
+    font-family: FontAwesome;
+    font-style: normal;
+}
+
+.accordion-button::after {
+    margin-left: auto;
+    content: "\f078";
+    font-family: FontAwesome;
+    font-style: normal;
+    background-image: none;
+}
+
+.faq .accordion-button {
+    color: #fff;
+    background-color: #262e52;
+    border-radius: 14px !important;
+    padding: 1.5rem 1.25rem;
+}
+
+.faq .accordion-body {
+    color: #F5F5F591 !important;
+}
+
+.faq .accordion-button:focus {
+    border-color: transparent;
+    box-shadow: none;
+  }
 
 
 /* --------------------- Contact --------------------- */

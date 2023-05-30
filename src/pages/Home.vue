@@ -18,8 +18,8 @@
                             <div class="row align-items-center gx-6 gy-6">
                                 <div class="col-lg-6 text-md-start">
                                     <div class="logo mb-3">
-                                        <img data-wow-delay="100ms" class="me-2 wow fadeInUp" src="../frontend/assets/logo/biofarma-white.svg" alt="Image">
-                                        <img data-wow-delay="200ms" class="wow fadeInUp" src="../frontend/assets/logo/mit.svg" alt="Image">
+                                        <img data-wow-delay="100ms" class="me-4 wow fadeInUp" src="../frontend/assets/logo/Biofarma-Group-Logo-White.png" alt="Image">
+                                        <img data-wow-delay="200ms" class="wow fadeInUp" src="../frontend/assets/logo/MIT-Logo-White.png" alt="Image">
                                     </div>
                                     <div class="emphasis-title bottommargin-sm">
                                         <h1 class="fw-900 mb-3 wow fadeInUp" data-wow-delay="300ms">
@@ -27,7 +27,7 @@
                                             Hacking Medicine
                                         </h1>
                                         <p class="opmargin-sm mb-0 fc-muted wow fadeInUp" data-wow-delay="400ms">
-                                            The Bio Farma x MIT Hacking Medicine hackathon will bring together people from technology and healthcare backgrounds to work on innovative solutions to real problems in Bali, February 2023.
+                                            The Bio Farma x MIT Hacking Medicine hackathon will bring together people from technology and healthcare backgrounds to work on innovative solutions for existent problems. Will be held in Bali, August 2023.
                                         </p>
                                     </div>
                                     <div class="mb-5">
@@ -63,12 +63,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="register.html">
+                                    <RouterLink to="/register">
                                         <button data-wow-delay="700ms" class="button button-large button-circle fw-medium wow fadeInUp">Register Now</button>
-                                    </a>
-                                    <a href="#" data-scrollto="#section-about" data-easing="easeInOutExpo" data-speed="1250" data-offset="70">
+                                    </RouterLink>
+                                    <RouterLink to="/contact">
                                         <button data-wow-delay="800ms" class="button button-large button-border button-circle fw-medium wow fadeInUp">Contact Us</button>
-                                    </a>
+                                    </RouterLink>
                                 </div>
 
                                 <div data-wow-delay="100ms" class="col-lg-6 text-center wow fadeInUp">
@@ -284,8 +284,8 @@
                                                             </div>
                                                         </div>
                                                         <div>
-                                                            <h4 class="mb-1 fw-bold">Introducing Bio x MIT Hacking Medicine</h4>
-                                                            <span class="fc-muted">Speakers : Chief Transformation and Digital Officer of Pharmaceutical SOE Holding, MoH, MoSOE, founders and Chief levels of startups</span>
+                                                            <h4 class="mb-1 fw-bold">Introduction</h4>
+                                                            <span class="fc-muted">Short brief and opening remarks </span>
                                                         </div>
                                                     </div>
                                                     <div class="d-flex mb-4">
@@ -334,8 +334,8 @@
                                                             </div>
                                                         </div>
                                                         <div>
-                                                            <h4 class="mb-1 fw-bold">Gala Dinner</h4>
-                                                            <!-- <span class="fc-muted">IT, Healthcare and Business Exhibition</span> -->
+                                                            <h4 class="mb-1 fw-bold">Networking Dinner</h4>
+                                                            <span class="fc-muted">Get connected with other participants, MIT Team, and mentors</span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -352,7 +352,7 @@
                                                         </div>
                                                         <div>
                                                             <h4 class="mb-1 fw-bold">Conference</h4>
-                                                            <span class="fc-muted">Full day event. The speakers are Stakeholders, SOE’s, Private Sectors</span>
+                                                            <span class="fc-muted">Gain insights from seasoned professionals</span>
                                                         </div>
                                                     </div>
                                                     <div class="d-flex mb-4">
@@ -374,7 +374,7 @@
                                                         </div>
                                                         <div>
                                                             <h4 class="mb-1 fw-bold">Workshop</h4>
-                                                            <span class="fc-muted">IT, Healthcare and Business Workshop (Parallel)</span>
+                                                            <span class="fc-muted">On hands activities with skillful experts</span>
                                                         </div>
                                                     </div>
                                                     <div class="d-flex mb-4">
@@ -384,8 +384,8 @@
                                                             </div>
                                                         </div>
                                                         <div>
-                                                            <h4 class="mb-1 fw-bold">Networking Dinner</h4>
-                                                            <span class="fc-muted">Welcoming and entertaining Hackathon participants</span>
+                                                            <h4 class="mb-1 fw-bold">Awarding Night</h4>
+                                                            <span class="fc-muted">Winner announcement</span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -442,8 +442,8 @@
                                                         </div>
                                                     </div>
                                                     <div>
-                                                        <h4 class="mb-1 fw-bold">Introducing Bio x MIT Hacking Medicine</h4>
-                                                        <span class="fc-muted">Speakers : Chief Transformation and Digital Officer of Pharmaceutical SOE Holding, MoH, MoSOE, founders and Chief levels of startups</span>
+                                                        <h4 class="mb-1 fw-bold">Introduction</h4>
+                                                        <span class="fc-muted">Short brief and opening remarks </span>
                                                     </div>
                                                 </div>
                                                 <div class="d-flex mb-4">
@@ -514,8 +514,8 @@
                                                         </div>
                                                     </div>
                                                     <div>
-                                                        <h4 class="mb-1 fw-bold">Gala Dinner</h4>
-                                                        <!-- <span class="fc-muted">IT, Healthcare and Business Exhibition</span> -->
+                                                        <h4 class="mb-1 fw-bold">Networking Dinner</h4>
+                                                        <span class="fc-muted">Get connected with other participants, MIT Team, and mentors</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -555,7 +555,7 @@
                                                     </div>
                                                     <div>
                                                         <h4 class="mb-1 fw-bold">Conference</h4>
-                                                        <span class="fc-muted">Full day event. The speakers are Stakeholders, SOE’s, Private Sectors</span>
+                                                        <span class="fc-muted">Gain insights from seasoned professionals</span>
                                                     </div>
                                                 </div>
                                                 <div class="d-flex mb-4">
@@ -577,7 +577,7 @@
                                                     </div>
                                                     <div>
                                                         <h4 class="mb-1 fw-bold">Workshop</h4>
-                                                        <span class="fc-muted">IT, Healthcare and Business Workshop (Parallel)</span>
+                                                        <span class="fc-muted">On hands activities with skillful experts</span>
                                                     </div>
                                                 </div>
                                                 <div class="d-flex mb-4">
@@ -587,8 +587,8 @@
                                                         </div>
                                                     </div>
                                                     <div>
-                                                        <h4 class="mb-1 fw-bold">Networking Dinner</h4>
-                                                        <span class="fc-muted">Welcoming and entertaining Hackathon participants</span>
+                                                        <h4 class="mb-1 fw-bold">Awarding Night</h4>
+                                                        <span class="fc-muted">Winner announcement</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -603,9 +603,14 @@
                     <div id="section-track" class="section parallax min-vh-100 dark m-0 border-0 d-flex track" data-bottom-top="background-position:0px 0px;" data-top-bottom="background-position:0px -300px;">
                         <div class="shape-divider" data-shape="wave" data-position="bottom" data-height="100" data-fill="#1F2642"></div>
                         <div class="vertical-middle">
-                            <div class="container">
-                                <h5 class="text-uppercase ls4 fw-normal mb-5 text-center wow fadeInUp" data-wow-delay="100ms">Hackathon Track</h5>
-
+                            <div class="container" data-wow-delay="100ms">
+                                <div class="wow fadeInUp">
+                                    <h2 class="center mb-1 text-capitalize fw-bold font-body">Hackathon Track</h2>
+                                    <p class="mb-5 text-center">
+                                        Choose one of these options that you will tackle in the event
+                                    </p>
+                                </div>
+                                
                                 <div class="row align-items-center gutter-40">
                                     <div class="col-md-6">
                                         <h2 class="text-capitalize fw-bold font-body mb-2 wow fadeInUp" data-wow-delay="200ms">Upstream</h2>
@@ -629,7 +634,7 @@
                                                 In Indonesia's e-retailing landscape, no healthcare player is currently offering a comprehensive end-to-end solution. There are still gaps in the business models of existing players; and significant opportunities to optimize sales in existing outlets by improving the supply chain, packaging, and the online-to-offline experience for customers and patients.
                                             </p>
                                             <p>
-                                                Most players currently also do not address the need for continuity of care. Similarly, while Kimia Farma Mobile, the Kimia Farma mobile application, currently has a strong presence in e-pharmacy retail, it does neither address the need for continuity of care nor strengthen the online-to-offline experience.
+                                                Most players currently also do not address the need for continuity of care. Speaking of real case, Kimia Farma Mobile, a mobile application by Kimia Farma, which currently has a strong presence in e-pharmacy retail apparently still lacking and need a lot of improvement in addressing the need for continuity of care. The app also in the need of more development on the online-to-offline experience.
                                             </p>
                                         </div>
                                     </div>
@@ -642,9 +647,9 @@
                     <div id="section-participant" class="page-section participant bg-dark-2 pt-6 pb-0">
 
 						<div class="center container">
-							<h5 class="text-uppercase ls4 fw-normal mb-2 fc-secondary" data-animate="fadeInUp" data-delay="10">Participants</h5>
-							<h2 class="text-capitalize fw-bold font-body" data-animate="fadeInUp" data-delay="20">Participant Roles</h2>
-							<p data-animate="fadeInUp" data-delay="30" class="fc-muted mb-4">
+							<h5 class="text-uppercase ls4 fw-normal mb-2 fc-secondary wow fadeInUp" data-wow-delay="100ms">Participants</h5>
+							<h2 class="text-capitalize fw-bold font-body wow fadeInUp" data-wow-delay="200ms">Participant Roles</h2>
+							<p data-wow-delay="300ms" class="fc-muted mb-4 wow fadeInUp">
 								200 international participants, from all across G20 countries and ASEAN member states
 							</p>
 						</div>
@@ -655,7 +660,7 @@
 								<!-- <div data-animate="fadeInLeft" data-delay="40" class="col-lg-4 d-none d-md-block" style="background: url('assets/images/participant.jpg') center center no-repeat; background-size: cover;"></div> -->
 								<div class="col-lg-12">
 									<div class="row align-items-stretch grid-border clearfix">
-										<div class="col-lg-4 col-md-6 col-padding" data-animate="fadeInUp" data-delay="50">
+										<div class="col-lg-4 col-md-6 col-padding wow fadeInUp" data-wow-delay="500ms">
 											<div class="feature-box fbox-center fbox-dark fbox-plain">
 												<div class="fbox-icon">
 													<img src="../frontend/assets/images/user.svg" alt="">
@@ -665,7 +670,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="col-lg-4 col-md-6 col-padding" data-animate="fadeInUp" data-delay="60">
+										<div class="col-lg-4 col-md-6 col-padding wow fadeInUp" data-wow-delay="600ms">
 											<div class="feature-box fbox-center fbox-dark fbox-plain">
 												<div class="fbox-icon">
 													<img src="../frontend/assets/images/pentool.svg" alt="">
@@ -675,7 +680,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="col-lg-4 col-md-6 col-padding" data-animate="fadeInUp" data-delay="70">
+										<div class="col-lg-4 col-md-6 col-padding wow fadeInUp" data-wow-delay="700ms">
 											<div class="feature-box fbox-center fbox-dark fbox-plain">
 												<div class="fbox-icon">
 													<img src="../frontend/assets/images/user-plus.svg" alt="">
@@ -685,7 +690,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="col-lg-4 col-md-6 col-padding" data-animate="fadeInUp" data-delay="80">
+										<div class="col-lg-4 col-md-6 col-padding wow fadeInUp" data-wow-delay="800ms">
 											<div class="feature-box fbox-center fbox-dark fbox-plain">
 												<div class="fbox-icon">
 													<img src="../frontend/assets/images/activity.svg" alt="">
@@ -695,7 +700,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="col-lg-4 col-md-6 col-padding" data-animate="fadeInUp" data-delay="90">
+										<div class="col-lg-4 col-md-6 col-padding wow fadeInUp" data-wow-delay="900ms">
 											<div class="feature-box fbox-center fbox-dark fbox-plain">
 												<div class="fbox-icon">
 													<img src="../frontend/assets/images/briefcase.svg" alt="">
@@ -705,7 +710,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="col-lg-4 col-md-6 col-padding" data-animate="fadeInUp" data-delay="100">
+										<div class="col-lg-4 col-md-6 col-padding wow fadeInUp" data-wow-delay="1000ms">
 											<div class="feature-box fbox-center fbox-dark fbox-plain">
 												<div class="fbox-icon">
 													<img src="../frontend/assets/images/code.svg" alt="">
@@ -742,54 +747,51 @@
                             
                             <div class="row clearfix mt-6 gx-6">
 
-                                <div data-wow-delay="300ms" class="col-lg-6 mb-5">
-                                    <!-- <img src="assets/images/winner.svg" alt="Winner"> -->
-                                </div>
-
+                                <!-- <div data-wow-delay="300ms" class="col-lg-6 mb-5">
+                                    <img src="assets/images/winner.svg" alt="Winner">
+                                </div> -->
                                 <div class="col-lg-6">
-                                    <div class="mb-5">
-                                        <div class="d-flex align-items-center justify-content-center justify-content-lg-start mb-3 wow fadeInUp" data-wow-delay="300ms">
-                                            <div class="prize mb-3 px-5 py-4 text-center">
-                                                <h4 class="mb-0 fw-bold">16,000 USD Total Prize</h4>
-                                            </div>
-                                        </div>
-                                        <div class="mb-5">
-                                            <h4 class="mb-3 fw-bold wow fadeInUp" data-wow-delay="400ms">The top 3 teams will be rewarded with:</h4>
-                                            <div class="d-flex mb-3 align-items-center wow fadeInUp" data-wow-delay="500ms">
-                                                <div class="me-3 icon d-flex align-items-center justify-content-center">
-                                                    <i class="bi bi-check2"></i>
-                                                </div>
-                                                <span class="fc-muted">Funds and cloud vouchers worth a total of 10,000 USD</span>
-                                            </div>
-                                            <div class="d-flex mb-3 align-items-center wow fadeInUp" data-wow-delay="600ms">
-                                                <div class="me-3 icon d-flex align-items-center justify-content-center">
-                                                    <i class="bi bi-check2"></i>
-                                                </div>
-                                                <span class="fc-muted">Sponsored implementation of their projects as a pilot
-                                                </span>
-                                            </div>
-                                            <div class="d-flex align-items-center wow fadeInUp" data-wow-delay="700ms">
-                                                <div class="me-3 icon d-flex align-items-center justify-content-center">
-                                                    <i class="bi bi-check2"></i>
-                                                </div>
-                                                <span class="fc-muted">Total funding of 6,000 USD
-                                                </span>
-                                            </div>
+                                    <div class="d-flex align-items-center justify-content-center justify-content-lg-start mb-3 wow fadeInUp" data-wow-delay="300ms">
+                                        <div class="prize mb-3 px-5 py-4 text-center">
+                                            <h4 class="mb-0 fw-bold">16,000 USD Total Prize</h4>
                                         </div>
                                     </div>
-                                    <div>
-                                        <div class="d-flex align-items-center justify-content-center justify-content-lg-start mb-3 wow fadeInUp" data-wow-delay="300ms">
-                                            <div class="flight mb-3 px-5 py-4 text-center">
-                                                <h4 class="mb-0 fw-bold">Flight to Boston</h4>
-                                            </div>
-                                        </div>
-                                        <h4 class="mb-3 fw-bold wow fadeInUp" data-wow-delay="700ms">Outstanding Participants</h4>
-                                        <div class="d-flex mb-3 align-items-center wow fadeInUp" data-wow-delay="800ms">
+                                    <div class="mb-5">
+                                        <h4 class="mb-3 fw-bold wow fadeInUp" data-wow-delay="400ms">The top 3 teams will be rewarded with:</h4>
+                                        <div class="d-flex mb-3 align-items-center wow fadeInUp" data-wow-delay="500ms">
                                             <div class="me-3 icon d-flex align-items-center justify-content-center">
                                                 <i class="bi bi-check2"></i>
                                             </div>
-                                            <span class="fc-muted">A golden ticket to Boston including a flight worth 5,000 USD</span>
+                                            <span class="fc-muted">Funds and cloud vouchers worth a total of 10,000 USD</span>
                                         </div>
+                                        <div class="d-flex mb-3 align-items-center wow fadeInUp" data-wow-delay="600ms">
+                                            <div class="me-3 icon d-flex align-items-center justify-content-center">
+                                                <i class="bi bi-check2"></i>
+                                            </div>
+                                            <span class="fc-muted">Sponsored implementation of their projects as a pilot
+                                            </span>
+                                        </div>
+                                        <div class="d-flex align-items-center wow fadeInUp" data-wow-delay="700ms">
+                                            <div class="me-3 icon d-flex align-items-center justify-content-center">
+                                                <i class="bi bi-check2"></i>
+                                            </div>
+                                            <span class="fc-muted">Total funding of 6,000 USD
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="d-flex align-items-center justify-content-center justify-content-lg-start mb-3 wow fadeInUp" data-wow-delay="300ms">
+                                        <div class="flight mb-3 px-5 py-4 text-center">
+                                            <h4 class="mb-0 fw-bold">Flight to Boston</h4>
+                                        </div>
+                                    </div>
+                                    <h4 class="mb-3 fw-bold wow fadeInUp" data-wow-delay="700ms">Outstanding Participants</h4>
+                                    <div class="d-flex mb-3 align-items-center wow fadeInUp" data-wow-delay="800ms">
+                                        <div class="me-3 icon d-flex align-items-center justify-content-center">
+                                            <i class="bi bi-check2"></i>
+                                        </div>
+                                        <span class="fc-muted">A golden ticket to Boston including a flight worth 5,000 USD</span>
                                     </div>
                                 </div>
 

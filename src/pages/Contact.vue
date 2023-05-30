@@ -32,7 +32,7 @@
                             <h2 class="center mb-3 text-capitalize fw-bold font-body wow fadeInUp" data-wow-delay="300ms">Any question? Contact us</h2>
 
                             <div class="row gy-4 mt-6">
-                                <div class="col-md-6 wow fadeInUp" data-wow-delay="300ms">
+                                <div class="col-md-3 wow fadeInUp" data-wow-delay="300ms">
                                     <a href="https://goo.gl/maps/KEQRrDXi7SucRiPC6" target="_blank">
                                         <div class="card-contact p-4 center">
                                             <div class="square-icon">
@@ -43,7 +43,7 @@
                                         </div>
                                     </a>
                                 </div>
-                                <div class="col-md-6 wow fadeInUp" data-wow-delay="400ms">
+                                <div class="col-md-3 wow fadeInUp" data-wow-delay="400ms">
                                     <a href="mailto:feni.febriani@biofarma.co.id">
                                         <div class="card-contact p-4 center">
                                             <div class="square-icon">
@@ -54,7 +54,7 @@
                                         </div>
                                     </a>
                                 </div>
-                                <div class="col-md-6 wow fadeInUp" data-wow-delay="500ms">
+                                <div class="col-md-3 wow fadeInUp" data-wow-delay="500ms">
                                     <a href="tel:+62813-2184-4185">
                                         <div class="card-contact p-4 center">
                                             <div class="square-icon">
@@ -66,7 +66,7 @@
                                         </div>
                                     </a>
                                 </div>
-                                <div class="col-md-6 wow fadeInUp" data-wow-delay="500ms">
+                                <div class="col-md-3 wow fadeInUp" data-wow-delay="500ms">
                                     <a href="https://instagram.com/hi.dhc" target="_blank">
                                         <div class="card-contact p-4 center">
                                             <div class="square-icon">
@@ -97,6 +97,5 @@
 
 <script setup>
 import Header from '../components/Header.vue'
-import ComingSoon from '../components/ComingSoon.vue'
 import Footer from '../components/Footer.vue'
 </script>

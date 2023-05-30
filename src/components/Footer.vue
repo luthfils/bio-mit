@@ -48,20 +48,36 @@
                                                Mentors
                                             </RouterLink>
                                         </li>
-                                        <li class="mb-3">
-                                            <RouterLink to="/sponsorship">
-                                                Sponsorship
-                                            </RouterLink>
-                                        </li>
                                     </ul>
                                 </div>
 
                                 <div class="col-6 wow fadeInUp" data-wow-delay="400ms">
                                     <ul class="mb-0">
-                                        <li class="mb-3"><a href="contact.html">Contact</a></li>
-                                        <li class="mb-3"><a href="faq.html">FAQ</a></li>
-                                        <li class="mb-3"><a href="terms.html">Terms of Service</a></li>
-                                        <li class="mb-3"><a href="privacy.html">Privacy Policy</a></li>
+                                        <li class="mb-3">
+                                            <RouterLink to="/sponsorship">
+                                                Sponsorship
+                                            </RouterLink>
+                                        </li>
+                                        <li class="mb-3">
+                                            <RouterLink to="/contact">
+                                                Contact
+                                            </RouterLink>
+                                        </li>
+                                        <li class="mb-3">
+                                            <RouterLink to="/faq">
+                                                FAQ
+                                            </RouterLink>
+                                        </li>
+                                        <!-- <li class="mb-3">
+                                            <RouterLink to="/terms">
+                                                Terms of Service
+                                            </RouterLink>
+                                        </li>
+                                        <li class="mb-3">
+                                            <RouterLink to="/privacy">
+                                                Privacy Policy
+                                            </RouterLink>
+                                        </li> -->
                                     </ul>
                                 </div>
                             </div>
@@ -83,7 +99,7 @@
 
                 <div class="row justify-content-between d-flex align-items-center gy-4">
                     <div class="col-12 col-lg-auto text-center text-lg-start copyrights fc-muted animate__animated animate__fadeInUp animate__delay-100ms" data-wow-delay="500ms">
-                        Copyrights &copy; 2022 All Rights Reserved by <a href="index.html">Bio Farma X MIT
+                        Copyrights &copy; 2023 All Rights Reserved by <a href="index.html">Bio Farma X MIT
                             Hacking Medicine</a>
                     </div>
 
