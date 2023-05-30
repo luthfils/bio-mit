@@ -27,7 +27,7 @@
                                             Hacking Medicine
                                         </h1>
                                         <p class="opmargin-sm mb-0 fc-muted wow fadeInUp" data-wow-delay="400ms">
-                                            The Bio Farma x MIT Hacking Medicine hackathon will bring together people from technology and healthcare backgrounds to work on innovative solutions to real problems in Bali, February 2023.
+                                            The Bio Farma x MIT Hacking Medicine hackathon will bring together people from technology and healthcare backgrounds to work on innovative solutions for real problems. We will be held in Bali, August 2023.
                                         </p>
                                     </div>
                                     <div class="mb-5">
