@@ -77,6 +77,56 @@
                                             </div>
                                             </div>
                                         </div>
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingThree">
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                                                When is the event?
+                                            </button>
+                                            </h2>
+                                            <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                                Bio Farma X MIT Hacking Medicine runs from Thursday, August 22nd to Sunday, August 27th.
+                                            </div>
+                                            </div>
+                                        </div>
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingThree">
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                                                Is the event free?
+                                            </button>
+                                            </h2>
+                                            <div id="collapse5" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                                Yes! Participating in the Bio Farma X MIT Hacking Medicine is free but everyone is required to apply and be accepted due to a limited number of spots.
+                                            </div>
+                                            </div>
+                                        </div>
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingThree">
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
+                                                What are the tracks and which track should I participate in?
+                                            </button>
+                                            </h2>
+                                            <div id="collapse6" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                                A track is an area of focus for healthcare innovation. There are 2 tracks at the Bio Farma X MIT Hacking Medicine. Applicants get admitted into a track, participants form team with other people in their track, and ultimately get judged by a panel of experts in that track. 
+                                                Even though your project may fit into more than one theme, you can only give a final presentation in one track. The 2 tracks are very diverse and there is something for everyone.
+
+                                            </div>
+                                            </div>
+                                        </div>
+                                        <!-- <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingThree">
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse7" aria-expanded="false" aria-controls="collapse7">
+                                                asasasa
+                                            </button>
+                                            </h2>
+                                            <div id="collapse7" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                                mnmnmn
+                                            </div>
+                                            </div>
+                                        </div> -->
                                     </div>
                                 </div>
 

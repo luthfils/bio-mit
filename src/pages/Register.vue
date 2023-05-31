@@ -141,9 +141,9 @@
                                 </ul>
                             </div>
                             <div class="center mt-4 wow fadeInUp" data-wow-delay="1300ms">
-                                <RouterLink to="/">
+                                <a href="https://bit.ly/BioXMITHackmedParticipant">
                                     <button class="button button-large button-circle button-large fw-medium">Register</button>
-                                </RouterLink>
+                                </a>
                             </div>
                         </div>
                     </div>
