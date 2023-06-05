@@ -315,7 +315,7 @@
 
                                             <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
                                                 <div>
-                                                    <h4 class="mb-4 fc-muted text-uppercase ls4 fw-normal">Agenda Day 3</h4>
+                                                    <h4 class="mb-4 fc-muted text-uppercase ls4 fw-normal">Day 3 Agenda</h4>
                                                     <div class="d-flex mb-4">
                                                         <div class="me-4">
                                                             <div class="number fw-bold d-flex align-items-center justify-content-center">
@@ -343,7 +343,7 @@
 
                                             <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
                                                 <div>
-                                                    <h4 class="mb-4 fc-muted text-uppercase ls4 fw-normal">Agenda Day 4</h4>
+                                                    <h4 class="mb-4 fc-muted text-uppercase ls4 fw-normal">Day 4 Agenda</h4>
                                                     <div class="d-flex mb-4">
                                                         <div class="me-4">
                                                             <div class="number fw-bold d-flex align-items-center justify-content-center">
@@ -495,7 +495,7 @@
                                         </div>
                                         <div class="accordion-content">
                                             <div class="accordion-title">
-                                                <h4 class="mb-4 fc-muted text-uppercase ls4 fw-normal">Agenda Day 3</h4>
+                                                <h4 class="mb-4 fc-muted text-uppercase ls4 fw-normal">Day 3 Agenda</h4>
                                                 <div class="d-flex mb-4">
                                                     <div class="me-4">
                                                         <div class="number fw-bold d-flex align-items-center justify-content-center">
@@ -546,7 +546,7 @@
                                         </div>
                                         <div class="accordion-content">
                                             <div class="accordion-title">
-                                                <h4 class="mb-4 fc-muted text-uppercase ls4 fw-normal">Agenda Day 4</h4>
+                                                <h4 class="mb-4 fc-muted text-uppercase ls4 fw-normal">Day 4 Agenda</h4>
                                                 <div class="d-flex mb-4">
                                                     <div class="me-4">
                                                         <div class="number fw-bold d-flex align-items-center justify-content-center">
@@ -600,7 +600,7 @@
                         </div>
                     </div>
 
-                    <div id="section-track" class="section parallax min-vh-100 dark m-0 border-0 d-flex track" data-bottom-top="background-position:0px 0px;" data-top-bottom="background-position:0px -300px;">
+                    <div id="section-track" class="section parallax min-vh-100 dark m-0 border-0 d-flex track" data-bottom-top="background-position:0px 0px;" data-top-bottom="background-position:0px -200px;">
                         <div class="shape-divider" data-shape="wave" data-position="bottom" data-height="100" data-fill="#1F2642"></div>
                         <div class="vertical-middle">
                             <div class="container" data-wow-delay="100ms">

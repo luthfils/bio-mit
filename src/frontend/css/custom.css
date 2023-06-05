@@ -681,6 +681,7 @@ h2 {
 .sponsor .table-responsive  {
     background: #272f53;
     border-radius: 14px;
+    border: 24px solid #272f53;
 }
 
 /* --------------------- Speaker, Judges --------------------- */

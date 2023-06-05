@@ -99,8 +99,10 @@
 
                 <div class="row justify-content-between d-flex align-items-center gy-4">
                     <div class="col-12 col-lg-auto text-center text-lg-start copyrights fc-muted animate__animated animate__fadeInUp animate__delay-100ms" data-wow-delay="500ms">
-                        Copyrights &copy; 2023 All Rights Reserved by <a href="index.html">Bio Farma X MIT
-                            Hacking Medicine</a>
+                        Copyrights &copy; 2023 All Rights Reserved by 
+                        <RouterLink to="/">
+                            Bio Farma X MIT Hacking Medicine
+                        </RouterLink>
                     </div>
 
                     <div class="col-12 col-lg-auto text-center text-lg-end animate__animated animate__fadeInUp animate__delay-200ms" data-wow-delay="600ms">
